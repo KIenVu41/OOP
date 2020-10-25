@@ -1,0 +1,31 @@
+Bài 12: Khoa CNTT-DHMM cần quản lý việc thanh toán tiền lương cho các cán
+bộ giáo viên trong khoa. Để quản lý được, thì nhà quản lý cần có những thông tin
+như sau:
+
+- Với mỗi cán bộ giáo viên, có các thông tin như sau: lương cứng,
+thướng, phạt, lương thực lĩnh và các thông tin cá nhân của mỗi cán bộ
+giáo viên
+- Các thông tin cá nhân của mỗi cán bộ giáo viên: Họ và tên, năm
+sinh, quê quán.
+1. Hãy xây dựng lớp Nguoi để quản lý các thông tin cá nhân về mỗi
+cán bộ giáo viên
+2. Xây dựng lớp CBGV ( cán bộ giáo viên) để quản lý các thông tin
+về mỗi cán bộ giáo viên
+3. Xây dựng các phương thức : nhập, hiển thị các thông tin cá nhân của
+mỗi cán bộ giáo viên
+
+4. Tính lương thực lĩnh cho mỗi cán bộ nếu công thức tính lương
+được tí nh như sau:
+Lương thực lĩnh=Lương cứng + thưởng - phạt
+5. Ghi danh sách giáo viên vào tệp, và đọc từ tệp ra màn hình
+
+Câu 14: Xây dựng lớp Ma Trận có các thuộc tính riêng sau:
+
+- Số dòng, số cột của ma trận.
+- 1 mảng 2 chiều
+- để lưu trữ các phần tử của ma trận. Hãy:
+- Hãy xây dựng toán tử tạo lập: MaTran(), MaTran(int n,int m)
+- Xây dựng phưong thức nhập vào ma trận rồi hiện thị ra màn hình.
+- Xây dựng phương thức tính tổng hiệu tích của 2 ma t rận
+- Cài đặt chương trình: Nhập vào 2 ma trận A,B sau đó tính tổng:
+C=A+B và hiển thị ra màn hình.
